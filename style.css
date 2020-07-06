@@ -1,10 +1,10 @@
 body {
   padding:0 30px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 22px;
   font-family: "Georgia", serif;
   color: #222222;
-  background: #ffffff url("img/panorama.") no-repeat;
+  background: #ffffff url("img/2.jpg");
   margin-left: 500px;
 
 } 
@@ -14,12 +14,12 @@ h1 {
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 25px;
   line-height: normal;
 }
 
 a {
-  color: #0099ef;
+  color: #efa300;
   text-decoration: underline;
 }
 footer {

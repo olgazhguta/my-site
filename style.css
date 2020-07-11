@@ -30,10 +30,20 @@ footer {
 }
 
 footer {
-  color: #fefefe;
+  color: rgba(56, 87, 28, 1);
   text-decoration: underline;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
   padding: 20px;
-  background-color: #dfd378;
-  border: 3px solid rgb(164, 161, 30);
+  background-color:rgba(255, 239, 11, 0.5);
+  
+
 }
+
+.partnership {
+  padding:10px;
+  margin:70px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #acd38b;
+  background-image: url("img/background55.png");
+  border: 3px solid rgb(140, 201, 125);

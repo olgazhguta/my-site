@@ -29,6 +29,26 @@ footer {
   margin-bottom:100px;
 }
 
+.header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-header.svg");
+}
+
+.header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-header.svg");
+}
+
+.footer-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-footer.svg");
+}
+
+.footer-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-footer.svg");
+}
+
 footer {
   color: rgba(56, 87, 28, 1);
   text-decoration: underline;
@@ -47,3 +67,4 @@ footer {
   background-color: #acd38b;
   background-image: url("img/background55.png");
   border: 3px solid rgb(140, 201, 125);
+

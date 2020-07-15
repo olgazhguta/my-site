@@ -8,6 +8,13 @@ body {
   text-align: center;
 
 } 
+.headerdecor {
+padding: 20px;
+color: white;
+background-color:#c4bcab;
+}
+
+
 h1 {
   font-size: 36px;
   line-height: normal;
@@ -19,11 +26,28 @@ h2 {
 }
 
 a {
-  color: #efa300;
+  color: #000000;
   text-decoration: underline;
 }
-footer {
-  margin-top: 30px;
+
+.line {
+  background-color:#604a4ab1 
+}
+
+.main-menu ul {
+  margin: 0;
+  margin-left:  10px;
+  padding: 0; 
+  list-style: none;
+}
+
+.main-menu li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.main-menu a {
+  color: white;
 }
 .margin {
   margin-bottom:100px;
@@ -32,20 +56,24 @@ footer {
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
+  background-repeat: no-repeat;
 }
 
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
+  background-repeat: no-repeat;
 }
 
 .footer-email {
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
+  background-repeat: no-repeat;
 }
 
 .footer-phone {
   padding-left: 25px;
+  background-repeat: no-repeat;
   background-image: url("img/icon-phone-footer.svg");
 }
 
@@ -55,7 +83,7 @@ footer {
   margin-bottom: 60px;
   padding: 20px;
   background-color:rgba(255, 239, 11, 0.5);
-  
+  margin-top: 30px;
 
 }
 
@@ -64,7 +92,6 @@ footer {
   margin:70px;
   text-align: center;
   color: #ffffff;
-  background-color: #acd38b;
+  background-color: #99b47e;
   background-image: url("img/background55.png");
-  border: 3px solid rgb(140, 201, 125);
-
+  border: 3px solid rgb(135, 140, 134);
